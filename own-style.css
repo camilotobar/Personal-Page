@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/icon?family=Material+Icons');
+
+body{
+    padding-left: 12%;
+    padding-right: 12%;
+}
+
+.content{
+    padding-left: 2%;
+    padding-right: 2%;
+}
+
+.about-me{
+    padding: 2%;
+    background-image: url("https://drive.google.com/uc?id=1wo7bM54eyuwyMsI9u_awj5Wj56YityB-");
+    background-size: cover;
+    background-position: right;
+    min-height: 500px;
+    vertical-align: middle
+}
+
+.experience{
+    padding: 2%;
+    background-color: rgb(250, 250, 250);
+}
+
+.skills{
+    padding: 2%;
+    background-color: rgb(240, 240, 240);
+}
+
+.recommendations{
+    padding: 2%;
+    background-color: rgb(220, 220, 220);
+}
+
+.header-title{
+    color: white;
+}
+
+.header-text{
+    color: rgb(230, 230, 230)
+}
+
+.footer{
+    padding: 2%;
+}
